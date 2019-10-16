@@ -20,7 +20,7 @@ metadata:
   name: frontend
   namespace: myapp-stg
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: guestbook
