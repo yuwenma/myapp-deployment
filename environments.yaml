@@ -1,0 +1,9 @@
+envs:
+- cluster_name: beta-e2e
+  compute:
+    zone: us-central1-a
+  creation_time: "2020-02-03T21:00:37Z"
+  last_update_time: "2020-02-03T21:02:38Z"
+  name: stg
+  namespace: ""
+  project: yuwenma-gke-playground
